@@ -48,6 +48,7 @@
             <property name="javaFileEncoding" value="utf-8"/>
         </javaClientGenerator>
 
+
         <!-- 实体 表名对应  tableName 表名  domainObjectName 类名 请遵守驼峰式命名 参考pdm文件 -->
         <table tableName="thirdStoreBind" domainObjectName="ThirdStoreBind"
                enableCountByExample="false" enableSelectByExample="false"
